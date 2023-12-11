@@ -3,7 +3,7 @@
 ### Hi, I'm Joseph. Nice to meet you!!!👋👋
 - 🔭 I’m currently studying in Harbin Institute of Technology, Majoring in Information Management and System.
 
-- ⚡ Research Interests:
+- 🧠 Research Interests:
     - Data Science and Machine Learning, particularly focused on Time Series Forecasting.
     - Quantitative Finance Research.
     - Factor Investing.
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 ⚡Technology Stack
 
