@@ -35,7 +35,8 @@ Here are some ideas to get you started:
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLee03&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLee03&hide_progress=true&title_color=0366d6&text_color=24292e&icon_color=0366d6&bg_color=ffffff)
+
 
 [![Joseph Lee-github](https://github-readme-stats.vercel.app/api?username=JosephLee03)](https://github.com/anuraghazra/github-readme-stats)
 
