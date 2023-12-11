@@ -6,7 +6,7 @@
 - 🧠 Research Interests:
     - Data Science and Machine Learning, particularly focused on Time Series Forecasting.
     - Quantitative Finance Research.
-    - Factor Investing.
+    - Optimization Modeling.
 
 - 📫 How to reach me: [Li_jax@outlook.com](mailto:Li_jax@outlook.com)
 
