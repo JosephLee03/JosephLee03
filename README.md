@@ -1,4 +1,10 @@
-### Hi, I'm Joseph. Nice to meet you!👋
+### Hi, I'm Joseph. Nice to meet you!!!👋
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+- 🔭 I’m currently studying in Harbin Institute of Technology, Majoring in Information Management and System.
+- 💬 Ask me about ...
+- 📫 How to reach me: 
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
 <!--
 **JosephLee03/JosephLee03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
