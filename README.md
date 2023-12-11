@@ -1,10 +1,10 @@
-### Hi, I'm Joseph. Nice to meet you!!!👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=1000&pause=600&center=true&multiline=true&random=false&width=1200&height=100&lines=Welcome+to+Joseph's+zone!!!;Hello+World!!!)](https://git.io/typing-svg)
+
+### Hi, I'm Joseph. Nice to meet you!!!👋👋
 - 🔭 I’m currently studying in Harbin Institute of Technology, Majoring in Information Management and System.
 - 💬 Ask me about ...
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 How to reach me: By Email [Li_jax@outlook.com](mailto:Li_jax@outlook.com)
+- ⚡ Research Interests: Data Science, Quantative Finance Reaserch, Time Series Reaserch, Factor Investing.
 
 <!--
 **JosephLee03/JosephLee03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
