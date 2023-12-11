@@ -3,7 +3,7 @@
 ### Hi, I'm Joseph. Nice to meet you!!!👋👋
 - 🔭 I’m currently studying in Harbin Institute of Technology, Majoring in Information Management and System.
 
-- ⚡ Research Interests: Data Science, Quantative Finance Reaserch, Time Series Reaserch, Factor Investing.
+- ⚡ Research Interests: Data Science and Machine Learning(especially in Time Series Forecasting), Quantative Finance Reaserch, Factor Investing.
 
 - 📫 How to reach me: [Li_jax@outlook.com](mailto:Li_jax@outlook.com)
 
