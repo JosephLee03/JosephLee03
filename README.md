@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLee03&hide_progress=true&title_color=0366d6&text_color=ffffff&icon_color=0366d6&bg_color=0D1117)
 [![Joseph Lee-github](https://github-readme-stats.vercel.app/api?username=JosephLee03&title_color=0366d6&text_color=ffffff&icon_color=0366d6&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
-[![Joseph Lee-github](https://github-profile-trophy.vercel.app/?username=JosephLee03&title_color=0366d6&text_color=ffffff&icon_color=0366d6&bg_color=0D1117)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLee03&hide_progress=true&title_color=0366d6&text_color=ffffff&icon_color=0366d6&bg_color=0D1117)
+
 
