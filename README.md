@@ -1,5 +1,5 @@
 ### Hi, I'm Joseph. Nice to meet you!!!👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+,+world+!!!;Welcome+to+my+zone+!)](https://git.io/typing-svg)
 - 🔭 I’m currently studying in Harbin Institute of Technology, Majoring in Information Management and System.
 - 💬 Ask me about ...
 - 📫 How to reach me: 
