@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ⚡Technology Stack
 ![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fwww.python.org%2F&query=https%3A%2F%2Fwww.python.org%2F)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephLee03&hide_progress=true)
 
 [![Joseph Lee-github](https://github-readme-stats.vercel.app/api?username=JosephLee03)](https://github.com/anuraghazra/github-readme-stats)
 
